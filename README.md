@@ -17,9 +17,12 @@ https://softwarehub.imperial.ac.uk/login
 Otherwise, if you are not attending in person, you will need to remotely access the College PC cluster             
 https://www.imperial.ac.uk/admin-services/ict/self-service/connect-communicate/remote-access/remotely-access-my-college-computer/remote-desktop-access-for-students/
 
+The optical image datasets for use in this part of the course are here:      https://imperiallondon-my.sharepoint.com/:u:/g/personal/masonpj_ic_ac_uk/Ee7dEMBnEr5MnwDJZq4NFI8BPgM2qq1vX0zzHIeu4VEA-g?e=pZoR5G
+
 2. ESA SNAP Toolbox which was developed for processing of Copernicus Sentinel datasets - this should be downloaded and installed locally (Win & Mac versions available) 
 Practical exercise instructions will appear in pdf form on the EDSML Teams channel.
 
+The S1 SAR SLC image product for the last exercise can be downloaded here (its 4GB!) 
 
 
 ## Supplementary reading and useful resources:
