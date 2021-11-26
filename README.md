@@ -60,7 +60,7 @@ https://www.gdal.org
 | Mon 06/12/21 14.00-17.00  | Application of point operations and contrast enhancement techniques    | Philippa      | Emma & Sam    |
 | Tue 07/12/21 09.00-12.00  | Application of multi-band algebraic operations to produce spectral indices    | Philippa      | Emma & Sam    |
 | Tue 07/12/21 14.00-17.00  | Principles and use of colour coordinate transformations & their uses    | Philippa      | Emma & Sam    |
-| Wed 08/12/21 09.00-12.00  | Essentials of Synthetic Aperture Radar (SAR) imaging and (a brief) introduction to InSAR    | Philppa      | Emma & Sam    |
+| Wed 08/12/21 09.00-12.00  | Bare essentials of Synthetic Aperture Radar (SAR) imaging and (a brief) introduction to InSAR    | Philppa      | Emma & Sam    |
 | Thu 09/12/21 09.00-12.00  | Students work in groups to develop and App on GEE    | Shuaib      | Philippa, Emma & Sam    |
 | Thu 09/12/21 15.00-17.00  | Student groups present their app    | Shuaib      | Philippa, Emma & Sam    |
 
