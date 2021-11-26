@@ -59,9 +59,9 @@ https://onlinelibrary.wiley.com/doi/book/10.1002/9781118687963
 | Mon 06/12/21 14.00-17.00  | Application of point operations and contrast enhancement techniques    | P Mason      | Emma & Sam    |
 | Tue 07/12/21 09.00-12.00  | Application of multi-band algebraic operations to produce spectral indices    | P Mason      | Emma & Sam    |
 | Tue 07/12/21 14.00-17.00  | Principles and use of colour coordinate transformations & enhancements    | P Mason      | Emma & Sam    |
-| Wed 08/12/21 09.00-12.00  | Principal Component Analysis (PCA) and a brief introduction to hyperspectral data processing    | P Mason      | Emma & Sam    |
-| Thu 09/12/21 09.00-12.00  | Essentials of Synthetic Aperture Radar (SAR) imaging and (a brief) introduction to InSAR    | P Mason      | Emma & Sam    |
-| Thu 09/12/21 14.00-17.00  | More on GEE      | Shuaib Rasheed            | 
+| Wed 08/12/21 09.00-12.00  | Essentials of Synthetic Aperture Radar (SAR) imaging and (a brief) introduction to InSAR    | P Mason      | Emma & Sam    |
+| Thu 09/12/21 09.00-12.00  | Students work in groups to develop and App on GEE    | Shuaib & Philippa            | 
+| Thu 09/12/21 15.00-17.00  | Student groups present their app    | Shuaib & Philippa            | 
 
 ## Assessment:
 
