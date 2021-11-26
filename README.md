@@ -5,7 +5,7 @@ Here you will find resources and core information for week 4 remote sensing, Ear
 
 On successful completion of this module, students will be able to:
 1. Understand the principles of the major types of remote sensing (passive and active) - their strengths and limitations for various applications
-2. Demonstrate competancy in executing standard image processing tools and techniques, to extract thematic information from EO data. So you will learn important image processing tools for contrast enhancement, algebraic operations, colour transformations & enhancements, pan-sharpening and principal components analysis (PCA)
+2. Demonstrate competancy in executing standard image processing tools and techniques, to extract thematic information from EO data. So you will learn important image processing tools for contrast enhancement, algebraic operations, colour transformations & enhancements, and pan-sharpening 
 3. Develop an understand of the basic principles of the spectral analysis of Earth materials, using multi- and hyper-spectral imagery, as well as of SAR imaging and its benefits
 4. Become familar with all the major types and sources of EO data, and their uses
 
