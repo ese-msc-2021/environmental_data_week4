@@ -27,6 +27,9 @@ The S1 SAR SLC image product for the last exercise can be downloaded here (its 4
 
 ## Supplementary reading and useful resources:
 
+Here is a shameless plug for our book on image processing which is in the College library and has been ripped online in various places
+https://onlinelibrary.wiley.com/doi/book/10.1002/9781118687963
+
 There are plentiful and growing resources (and ready code) available for EO applications in many repositories:
 * EO processing framework for ML in Python - extracting information from satellite imagery made easy!
 htpps://eo-learn https://pypi.org/project/eo-learn 
@@ -49,8 +52,6 @@ https://www.earthdatascience.org/courses/earth-analytics-python
 * All the raster data format descriptors and drivers you will ever need at GDAL                 
 https://www.gdal.org 
 
-An here is a shameless plug for our book on image processing which is in the College library and has been ripped online in various places
-https://onlinelibrary.wiley.com/doi/book/10.1002/9781118687963
 
 ## Lecture schedule:
 | Date                      | Lecture topic    | Instructor   | Moderators    |
