@@ -1,13 +1,13 @@
 # environmental_data_week4
-Here you will find resources and core information for week 4 remote sensing, Earth Observation (EO) data and image processing
+Here you will find the core information for week 4 remote sensing, Earth Observation (EO) data and image processing. The data files are zipped up and too large to be uploaded here so they are linked in the EDSML Teams channel, under Part_4_Mason.
 
 ## Learning outcomes:
 
 On successful completion of this module, students will be able to:
-1. Understand the principles of the major types of remote sensing (passive and active) - their strengths and limitations for various applications
+1. Understand the physical principles of remote sensing (passive and active), sensors technology,  and their benefits and limitations for various applications
 2. Demonstrate competancy in executing standard image processing tools and techniques, to extract thematic information from EO data. So you will learn important image processing tools for contrast enhancement, algebraic operations, colour transformations & enhancements, and pan-sharpening 
-3. Develop an understanding of the basic principles of the spectral analysis of Earth materials, using multi- and hyper-spectral imagery, as well as of SAR imaging and its benefits
-4. Become familar with all the major types and sources of EO data, and their uses
+3. Develop a basic understanding of SAR imaging and its benefits
+4. Become familar with all the major sources of EO data, and their uses
 
 ## Course content description:
 This course is focused on the understanding of physical principles, maths concepts and data, rather than on coding (the latter you can experiment with and develop by yourselves). There are six lectures and related practical exercises. The practical exercises will use a few simple offline datasets for processing. To maximise the amount we can cover in this time, we will use two ready software tools: 
