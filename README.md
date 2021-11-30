@@ -70,4 +70,4 @@ Assessment will be 100% coursework and open book
 The exercise will be released and submitted via GitHub Classroom on Friday 
 | Release date/time    | Due date/time         | Topic                 |
 |----------------------|-----------------------|-----------------------|
-| Fri 10/12/21 13.00   | Fri 10/12/21  17.00   | EO image processing   |
+| Fri 10/12/21 13.00   | Fri 10/12/21  17.00   | EO image processing - link will be sent just before 13.00   |
